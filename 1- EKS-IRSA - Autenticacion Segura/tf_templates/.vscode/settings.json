@@ -1,0 +1,9 @@
+{
+  "files.watcherExclude": {
+    "**/.terraform/**": true,
+    "**/.git/**": true
+  },
+  "search.exclude": {
+    "**/.terraform/**": true
+  }
+}
